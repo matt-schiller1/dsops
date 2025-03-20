@@ -79,8 +79,8 @@ Day 6: Sprint Planning and Task Management
 
 **DIY Project:** Set up a Kanban board and assign work items.
 
-### Week 4: Git & CI/CD Pipelines
-## Day 7: Git & Version Control
+## Week 4: Git & CI/CD Pipelines
+### Day 7: Git & Version Control
 
 * Git fundamentals (clone, commit, push, pull, branch, merge)
 * Feature branches vs. trunk-based development
@@ -88,7 +88,7 @@ Day 6: Sprint Planning and Task Management
 
 **DIY Project:** Set up a Git repository, create branches, and push code.
 
-## Day 8: CI/CD Pipeline Basics and Security
+### Day 8: CI/CD Pipeline Basics and Security
 
 * Understanding Continuous Integration & Deployment
 * CI/CD tools: GitHub Actions, Azure DevOps Pipelines
@@ -100,8 +100,8 @@ Day 6: Sprint Planning and Task Management
 
 **DIY Project:** Build a CI/CD Pipeline that connects to your Azure Account
 
-### Week 5: Infrastructure as Code (IaC) with Terraform
-## Day 9 Introduction to Infrastructure as Code (IaC)
+## Week 5: Infrastructure as Code (IaC) with Terraform
+### Day 9 Introduction to Infrastructure as Code (IaC)
 
 * What is IaC? Terraform vs. ARM templates vs. Bicep
 * Setting up Terraform CLI
@@ -113,7 +113,7 @@ Day 6: Sprint Planning and Task Management
 
 **DIY Project:** Write a Terraform script to deploy a Resource Group and Storage Account.
 
-Day 10: Terraform for Infrastructure Automation
+### Day 10: Terraform for Infrastructure Automation
 
 * Terraform best practices (remote state, workspaces)
 * Integrating Terraform with CI/CD
