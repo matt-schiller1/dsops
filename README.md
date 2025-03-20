@@ -62,8 +62,8 @@
 
 **DIY Project:** Create an Azure Monitor dashboard tracking VM performance.
 
-### Week 3: Agile, Scrum, and Sprint Planning
-## Day 5: Agile & Scrum Basics
+## Week 3: Agile, Scrum, and Sprint Planning
+### Day 5: Agile & Scrum Basics
 
 * What is Agile?
 * Scrum framework: roles, ceremonies, artifacts
@@ -71,7 +71,7 @@
 
 **DIY Project:** Create a Scrum workflow in Azure DevOps and define a sample backlog.
 
-Day 6: Sprint Planning and Task Management
+### Day 6: Sprint Planning and Task Management
 
 * Creating epics, stories, and tasks
 * Using Kanban and Scrum boards
